@@ -8,7 +8,7 @@ _Source: <https://github.com/stephenturner/rstudioconf_purrr_listcols/>_
 ## purrr
 
 - [Charlotte Wickham's](https://twitter.com/CVWickham/) purrr tutorial with Code, challenges, slides, data, etc.: **<http://bit.ly/purrr-rstudioconf>**
-- [Jenny Bryan's]() Self-guided tutorial, worked examples, code: **<https://jennybc.github.io/purrr-tutorial/>**
+- [Jenny Bryan's](https://twitter.com/JennyBryan) Self-guided tutorial, worked examples, code: **<https://jennybc.github.io/purrr-tutorial/>**
 - Also from Jenny Bryan: Example lists for teaching / practice that aren't foo/bar/iris/mtcars-level boring: **<https://github.com/jennybc/repurrrsive>**
 
 ## list column resources
